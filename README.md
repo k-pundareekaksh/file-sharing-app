@@ -6,13 +6,13 @@ A modern MERN stack application for secure file upload and sharing. Users can up
 
 Frontend:
 
-React 18
-Axios for API calls
-CSS3 for styling
+- React 18
+- Axios for API calls
+- CSS3 for styling
 
 Backend:
 
-Node.js with Express
-MongoDB with Mongoose
-Multer for file uploads
-CORS enabled
+- Node.js with Express
+- MongoDB with Mongoose
+- Multer for file uploads
+- CORS enabled
